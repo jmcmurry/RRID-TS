@@ -2,7 +2,7 @@
 
 This repo is temporarily housed under github/jmcmurry while we await the necessary permissions to be in place under github/force11.
 
-These are the preliminary assignments for subcommittee working groups:
+These are the preliminary assignments for subcommittee working groups, based upon preferences stated in this [survey](https://docs.google.com/forms/d/13JNIToHYTLFZG6lfO12DnL4OYjEpd96Sr3Ge_73uhfg/edit?usp=drive_web):
 
 Syntax | JATS/Paywall | Prefix coordination | Exchange layer
 -------|-------|-------|-------|
