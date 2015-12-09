@@ -14,3 +14,5 @@ Mark Diekhans |  |  | Caty Chung
 Matthew Jones |  |  | Daniel S. Katz
  |  |  | Kerstin Lehnert
  |  |  | Dave Vieglais
+ 
+ Kickoff meeting 8 December, 2015 [agenda and notes](https://docs.google.com/document/d/15HXvkfrL7Yxk9m1NUKCoEJx7Nh3IzKnaQ4K0l64BPec/edit)
