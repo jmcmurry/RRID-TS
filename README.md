@@ -17,6 +17,11 @@ Matthew Jones |  |  | Daniel S. Katz
  
  Kickoff meeting 8 December, 2015 [agenda and notes](https://docs.google.com/document/d/15HXvkfrL7Yxk9m1NUKCoEJx7Nh3IzKnaQ4K0l64BPec/edit)
  
- [Google drive folder](https://drive.google.com/drive/u/0/folders/0B7Tv2ysg_H9-MEE0N3BKMmtlTFE) (for synchronous documents)
- 
- rrid-ts@googlegroups.com for calendar and email notification of upcoming meetings.
+ Tool | What it is for
+ ------|---------
+ [GitHub Repo](https://github.com/jmcmurry/RRID-TS/) | Everything from issues to documentation, models, discussions etc. This will be primary platform for our work
+ [Google drive folder](https://drive.google.com/drive/u/0/folders/0B7Tv2ysg_H9-MEE0N3BKMmtlTFE) | collaborative editing during meetings, documents that contain email addresses
+ rrid-ts@googlegroups.com | calendar and administrative purposes (meeting reminders, followups re: minutes)
+ Skype | Subcommittee group communication (if desired)
+ email | sparingly
+  
