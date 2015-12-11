@@ -9,7 +9,7 @@ Syntax | JATS/Paywall | Prefix coordination | Exchange layer
 John Deck | Melissa Harrison | Julie McMurry | John Kunze
 Carl Kesselman | Nicole Vasilevsky | Melissa Haendel | Ramona Walls
 Jeffrey Grethe | Sierra Taylor Moxon | Nick Juty | Ian Dunlop
-PA Gourraud | Carole Goble |  | Scott Edmunds
+PA Gourraud | Carole Goble |Asiyah Yu Lin  | Scott Edmunds
 Mark Diekhans |  |  | Caty Chung
 Matthew Jones |  |  | Daniel S. Katz
  |  |  | Kerstin Lehnert
